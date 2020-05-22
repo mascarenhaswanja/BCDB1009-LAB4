@@ -1,3 +1,4 @@
+// Review code
 let $add = document.getElementById("add");
 let $result = document.getElementById("result");
 
